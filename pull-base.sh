@@ -28,7 +28,6 @@ echo "Restoring store-specific files..."
 git checkout HEAD -- assets/custom.css
 git checkout HEAD -- assets/custom.js
 git checkout HEAD -- snippets/custom.liquid
-git checkout HEAD -- config/settings_data.json
 
 
 echo ""
